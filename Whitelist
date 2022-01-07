@@ -1,4 +1,4 @@
-local Whitelist = {
-    [533242889] = true
-    [180520360] = true
+{
+    "USERID": true,
+    "ANOTHER": true
 }
