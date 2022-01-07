@@ -1,0 +1,3 @@
+local Whitelist = {
+    [533242889] = true
+}
