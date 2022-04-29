@@ -1,4 +1,9 @@
-setclipboard("https://discord.gg/3hjpbtec38")
-game.Players.LocalPlayer:Kick("Join the servers For the new lock, it got copied to clipboard")
+local Link = "discord.gg/3hjpbtec38"
+
+if setclipboard then
+    setclipboard("https://"..Link)
+end
+
+game:GetService("Players").LocalPlayer:Kick("Join the servers For the new lock, check clipboard or "..Link)
 wait(4)
 game:Shutdown()
