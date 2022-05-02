@@ -1,0 +1,5 @@
+if game.PlaceId == 2788229376 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/test/main/White.txt"))()
+else 
+game.Players.LocalPlayer:Kick("Wrong game Buddy")
+end
