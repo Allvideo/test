@@ -1,5 +1,1 @@
-if game.PlaceId == 2788229376 or 9183932460 or 7800644383 then
-loadstring(game:HttpGet("https://github.com/Allvideo/test/raw/main/Da%20hood.txt"))()
-else
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/test/main/Blox%20Fruits.txt))()
-end
