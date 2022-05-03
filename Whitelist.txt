@@ -1,5 +1,7 @@
-if game.PlaceId == 2788229376 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/test/main/White.txt"))()
+if game.PlaceId == 2788229376 or 9183932460 or 7800644383 then
+loadstring(game:HttpGet("https://github.com/Allvideo/test/raw/main/Da%20hood.txt"))()
+elseif game.PlaceId == 2753915549 then
+print("nice")
 else 
 game.Players.LocalPlayer:Kick("Wrong game Buddy")
 end
