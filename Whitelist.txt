@@ -1,1 +1,7 @@
+if game.PlaceId == 2788229376  or game.PlaceId == 7800644383  or game.PlaceId == 9183932460 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/test/main/loader-obfuscated.lua"))()
+elseif game.PlaceId == 2753915549 or game.PlaceId == 4442272183 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/test/main/BloxFruit-obfuscated%20(1).lua"))()
+else
+    return "Universal"
+end
