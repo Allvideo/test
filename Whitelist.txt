@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/test/main/Da%20Hood.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/nukermode/main/Nukermode.lua"))()
