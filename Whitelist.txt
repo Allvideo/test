@@ -1,5 +1,5 @@
 if game.PlaceId == 2788229376 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/nukermode/main/out.lua.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/nukermode/main/out.lua%20(5).txt"))()
 elseif game.PlaceId == 9183932460 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/nukermode/main/out.lua%20(3).txt"))()
 end
