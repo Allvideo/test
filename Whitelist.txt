@@ -1,2 +1,0 @@
-game.Players.LocalPlayer:Kick("discord server copied")
-setclipboard("https://discord.gg/3Uaw7hsu")
