@@ -1,2 +1,0 @@
-game.Players.LocalPlayer:kick("nukermode down, copied discord server")
-setclipboard("https://discord.gg/4F3yYX2UXf")
