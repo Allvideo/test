@@ -2,8 +2,8 @@ local Table = {
     [5864786637] = "test/main/Another%20Time.txt",
     [2788229376] = "test/main/Da%20Hood.txt"
 }
-local Supported = Table[game.PlaceId] or nil
-if Supported ~= nil then
+local Supported = Table[game.PlaceId]
+if Supported then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/"..Supported))()
     else
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/test/main/Da%20Hood.txt"))()
